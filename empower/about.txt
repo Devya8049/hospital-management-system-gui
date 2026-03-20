@@ -1,0 +1,18 @@
+ENPOWER HOSPITAL
+
+Founded: 12th January 2010
+
+Address:
+123, Health Avenue,
+City Center, Metropolis,
+State - 123456
+
+Doctors:
+Dr.Elson (Children specialist) - MBBS, MD, Contact: 1234567890
+Dr.Mark (General physician) - MBBS, Contact: 9876543210
+Dr.Frank (General physician) - MBBS, PhD, Contact: 9876543210
+Dr.Strange (Pscologicalist) - MBBS, PhD, Contact: 5555555555
+Dr.Devya (Gynecologist) - MBBS, MS, Contact: 4444444444
+Dr.Sania (Dermatologist) - MBBS, MD, Contact: 5000006789
+
+ENPOWER HOSPITAL is committed to providing quality healthcare with compassion and excellence.

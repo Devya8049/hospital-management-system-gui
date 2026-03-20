@@ -1,0 +1,104 @@
+1|Los Devil|34|Male|Knee Pain|Dr.frank|550.00|16-04-2025 20:38:48|Paracetamol, Ibuprofen=
+2|Red Bulls|19|Female|Drinking|Dr.prasad|950.00|17-04-2025 22:07:08|Detoxification, Vitamins
+3|Mick|45|Male|Cold|Dr.Prasad|500.00|20-03-2026 23:16:39|Cough Syrup, Decongestant
+4|Jack|45|Male|Fever|Dr.frank|550.00|15-04-2025 22:24:22|Paracetamol, Antipyretic
+5|Homelander|48|Male|Hypertension|Dr.strange|950.00|15-04-2025 22:24:54|Amlodipine, Lisinopril
+6|Gamora|47|Female|Hypertension|Dr.strange|950.00|15-04-2025 22:50:28|Amlodipine, Lisinopril
+7|Samara|13|Female|Cold|Dr.elson|650.00|15-04-2025 22:51:43|Cough Syrup, Decongestant
+8|Xin Yang|14|Male|Fever|Dr.elson|650.00|15-04-2025 22:52:60|Paracetamol, Antipyretic
+9|Ben|13|Male|Fever|Dr.elson|650.00|15-04-2025 23:03:12|Paracetamol, Antipyretic
+10|Gwen|19|Male|Hypotension|Dr.strange|950.00|15-04-2025 22:55:35|Fludrocortisone, Midodrine
+11|Renda|13|Female|Head Ack|Dr.elson|650.00|15-04-2025 23:29:37|Aspirin, Acetaminophen
+12|Flink|85|Male|Dizzy|Dr.mark|550.00|15-04-2025 23:39:42|Meclizine, Dimenhydrinate
+13|Blenda|17|Female|Hypotension|Dr.prasad|450.00|16-04-2025 00:36:41|Fludrocortisone, Midodrine
+14|Flora|19|Female|Hypotension|Dr.prasad|450.00|16-04-2025 00:34:36|Fludrocortisone, Midodrine
+15|Ankitha|17|Female|Constipation|Dr.frank|550.00|16-04-2025 21:58:54|Laxative, Fiber Supplement
+16|Grace|18|Female|Headace|Dr.prasad|450.00|16-04-2025 22:01:55|Dolo 650
+19|Groge|59|Male|Allergy|Dr.sania|850.00|16-04-2025 21:39:49|Antihistamine, Loratadine
+17|Hela|39|Female|Hypertension|Dr.strange|950.00|16-04-2025 20:49:14|Amlodipine, Lisinopril
+18|Jennifer|53|Female|Cold|Dr.frank|550.00|16-04-2025 20:49:34|Cough Syrup, Decongestant
+20|John|15|Male|Fever|Dr.elson|650.00|17-04-2025 18:24:09|Paracetamol, Antipyretic
+21|Peter|28|Male|Back Pain|Dr.frank|600.00|17-04-2025 10:12:11|Ibuprofen, Paracetamol
+22|Mary|32|Female|Migraine|Dr.sania|700.00|17-04-2025 10:15:22|Sumatriptan, Naproxen
+23|Bruce|41|Male|Diabetes|Dr.strange|1200.00|17-04-2025 10:18:33|Metformin, Insulin
+24|Clark|36|Male|Asthma|Dr.elson|800.00|17-04-2025 10:21:44|Salbutamol, Budesonide
+25|Diana|29|Female|Anemia|Dr.prasad|650.00|17-04-2025 10:24:55|Iron Supplement, Folic Acid
+26|Barry|25|Male|Sprain|Dr.frank|500.00|17-04-2025 10:28:06|Ibuprofen, Rest
+27|Arthur|38|Male|Ulcer|Dr.mark|900.00|17-04-2025 10:31:17|Omeprazole, Antacid
+28|Victor|30|Male|Infection|Dr.sania|750.00|17-04-2025 10:34:28|Amoxicillin, Paracetamol
+29|Wanda|27|Female|Anxiety|Dr.strange|850.00|17-04-2025 10:37:39|Sertraline, Diazepam
+30|Natasha|33|Female|Allergy|Dr.elson|700.00|17-04-2025 10:40:50|Cetirizine, Loratadine
+31|Steve|40|Male|Arthritis|Dr.prasad|950.00|17-04-2025 10:44:01|Ibuprofen, Naproxen
+32|Tony|45|Male|Insomnia|Dr.frank|800.00|17-04-2025 10:47:12|Melatonin, Zolpidem
+33|Pepper|37|Female|Thyroid|Dr.sania|900.00|17-04-2025 10:50:23|Levothyroxine
+34|Rhodey|42|Male|Hypertension|Dr.strange|950.00|17-04-2025 10:53:34|Amlodipine, Lisinopril
+35|Scott|35|Male|Cough|Dr.elson|600.00|17-04-2025 10:56:45|Cough Syrup, Decongestant
+36|Hope|31|Female|Fever|Dr.prasad|650.00|17-04-2025 10:59:56|Paracetamol, Antipyretic
+37|Janet|55|Female|Arthritis|Dr.mark|950.00|17-04-2025 11:03:07|Ibuprofen, Naproxen
+38|Hank|58|Male|Diabetes|Dr.sania|850.00|17-04-2025 11:06:18|Metformin, Insulin
+39|Nick|50|Male|Hypertension|Dr.strange|950.00|17-04-2025 11:09:29|Amlodipine, Lisinopril
+40|Maria|44|Female|Migraine|Dr.elson|700.00|17-04-2025 11:12:40|Sumatriptan, Naproxen
+41|Shuri|22|Female|Cold|Dr.prasad|550.00|17-04-2025 11:15:51|Dolo 650, Cough Syrup
+42|T'challa|27|Male|Injury|Dr.frank|800.00|17-04-2025 11:19:02|Ibuprofen, Rest
+43|Okoye|29|Female|Allergy|Dr.sania|700.00|17-04-2025 11:22:13|Cetirizine, Loratadine
+44|M'baku|35|Male|Asthma|Dr.strange|800.00|17-04-2025 11:25:24|Salbutamol, Budesonide
+45|Nakia|28|Female|Anemia|Dr.elson|650.00|17-04-2025 11:28:35|Iron Supplement, Folic Acid
+46|Peter Quill|34|Male|Fever|Dr.frank|650.00|30-04-2025 13:20:34|Paracetamol, Antipyretic
+47|Gamora|29|Female|Sprain|Dr.frank|500.00|17-04-2025 11:34:57|Ibuprofen, Rest
+48|Drax|39|Male|Ulcer|Dr.mark|900.00|17-04-2025 11:38:08|Omeprazole, Antacid
+49|Rocket|32|Male|Infection|Dr.sania|750.00|17-04-2025 11:41:19|Amoxicillin, Paracetamol
+50|Groot|25|Male|Cold|Dr.strange|550.00|17-04-2025 11:44:30|Dolo 650, Cough Syrup
+51|Nebula|31|Female|Anxiety|Dr.elson|850.00|17-04-2025 11:47:41|Sertraline, Diazepam
+52|Mantis|27|Female|Allergy|Dr.prasad|700.00|17-04-2025 11:50:52|Cetirizine, Loratadine
+53|Yondu|45|Male|Arthritis|Dr.frank|950.00|17-04-2025 11:54:03|Ibuprofen, Naproxen
+54|Ego|60|Male|Diabetes|Dr.sania|1200.00|17-04-2025 11:57:14|Metformin, Insulin
+55|Valkyrie|33|Female|Thyroid|Dr.strange|900.00|17-04-2025 12:00:25|Levothyroxine
+56|Korg|38|Male|Hypertension|Dr.elson|950.00|17-04-2025 12:03:36|Amlodipine, Lisinopril
+57|Meik|29|Male|Cough|Dr.prasad|600.00|17-04-2025 12:06:47|Cough Syrup, Decongestant
+58|Heimdall|40|Male|Fever|Dr.frank|650.00|17-04-2025 12:09:58|Paracetamol, Antipyretic
+59|Sif|28|Female|Constipation|Dr.sania|550.00|17-04-2025 12:13:09|Laxative, Fiber Supplement
+60|Loki|35|Male|Headache|Dr.strange|700.00|17-04-2025 12:16:20|Ibuprofen, Naproxen
+61|Frigga|55|Female|Arthritis|Dr.elson|950.00|17-04-2025 12:19:31|Ibuprofen, Naproxen
+62|Odin|65|Male|Diabetes|Dr.prasad|1200.00|17-04-2025 12:22:42|Metformin, Insulin
+63|Jane|32|Female|Migraine|Dr.frank|700.00|17-04-2025 12:25:53|Sumatriptan, Naproxen
+64|Darcy|27|Female|Cold|Dr.sania|550.00|17-04-2025 12:29:04|Dolo 650, Cough Syrup
+65|Erik|45|Male|Hypertension|Dr.strange|950.00|17-04-2025 12:32:15|Amlodipine, Lisinopril
+66|Selvig|50|Male|Asthma|Dr.elson|800.00|17-04-2025 12:35:26|Salbutamol, Budesonide
+67|Sharon|29|Female|Anemia|Dr.prasad|650.00|17-04-2025 12:38:37|Iron Supplement, Folic Acid
+68|Sam|36|Male|Sprain|Dr.frank|500.00|17-04-2025 12:41:48|Ibuprofen, Rest
+69|Bucky|38|Male|Ulcer|Dr.mark|900.00|17-04-2025 12:44:59|Omeprazole, Antacid
+70|Peggy|34|Female|Infection|Dr.sania|750.00|17-04-2025 12:48:10|Amoxicillin, Paracetamol
+71|Howard|55|Male|Insomnia|Dr.strange|800.00|17-04-2025 12:51:21|Melatonin, Zolpidem
+72|Jarvis|40|Male|Thyroid|Dr.elson|900.00|17-04-2025 12:54:32|Levothyroxine
+73|Vision|35|Male|Cough|Dr.prasad|600.00|17-04-2025 12:57:43|Cough Syrup, Decongestant
+74|Wanda Maximoff|29|Female|Fever|Dr.frank|650.00|17-04-2025 13:00:54|Paracetamol, Antipyretic
+75|Pietro|27|Male|Allergy|Dr.sania|700.00|17-04-2025 13:04:05|Cetirizine, Loratadine
+76|Agatha|45|Female|Arthritis|Dr.strange|950.00|17-04-2025 13:07:16|Ibuprofen, Naproxen
+77|Monica|32|Female|Diabetes|Dr.elson|1200.00|17-04-2025 13:10:27|Metformin, Insulin
+78|Jimmy|38|Male|Hypertension|Dr.prasad|950.00|17-04-2025 13:13:38|Amlodipine, Lisinopril
+79|Darcy Lewis|27|Female|Cold|Dr.frank|550.00|17-04-2025 13:16:49|Dolo 650, Cough Syrup
+80|Luis|35|Male|Sprain|Dr.sania|500.00|17-04-2025 13:20:00|Ibuprofen, Rest
+81|Cassie|18|Female|Constipation|Dr.strange|550.00|17-04-2025 13:23:11|Laxative, Fiber Supplement
+82|Ava|22|Female|Headache|Dr.elson|700.00|17-04-2025 13:26:22|Ibuprofen, Naproxen
+83|Bill|55|Male|Arthritis|Dr.prasad|950.00|17-04-2025 13:29:33|Ibuprofen, Naproxen
+84|Sonny|60|Male|Diabetes|Dr.frank|1200.00|17-04-2025 13:32:44|Metformin, Insulin
+85|Janet Van Dyne|55|Female|Migraine|Dr.sania|700.00|17-04-2025 13:35:55|Sumatriptan, Naproxen
+86|Ghost|29|Female|Cold|Dr.strange|550.00|17-04-2025 13:39:06|Dolo 650, Cough Syrup
+87|Kurt|45|Male|Hypertension|Dr.elson|950.00|17-04-2025 13:42:17|Amlodipine, Lisinopril
+88|Dave|50|Male|Asthma|Dr.prasad|800.00|17-04-2025 13:45:28|Salbutamol, Budesonide
+89|Maggie|29|Female|Anemia|Dr.frank|650.00|17-04-2025 13:48:39|Iron Supplement, Folic Acid
+90|Hope Van Dyne|31|Female|Fever|Dr.sania|650.00|17-04-2025 13:51:50|Paracetamol, Antipyretic
+91|Scott Lang|35|Male|Sprain|Dr.strange|500.00|17-04-2025 13:55:01|Ibuprofen, Rest
+92|Hank Pym|58|Male|Ulcer|Dr.elson|900.00|17-04-2025 13:58:12|Omeprazole, Antacid
+93|Janet Pym|55|Female|Infection|Dr.prasad|750.00|17-04-2025 14:01:23|Amoxicillin, Paracetamol
+94|Cassie Lang|18|Female|Allergy|Dr.frank|700.00|17-04-2025 14:04:34|Cetirizine, Loratadine
+95|Sonny Burch|60|Male|Arthritis|Dr.sania|950.00|17-04-2025 14:07:45|Ibuprofen, Naproxen
+96|Bill Foster|55|Male|Diabetes|Dr.strange|1200.00|17-04-2025 14:10:56|Metformin, Insulin
+97|Ava Starr|29|Female|Thyroid|Dr.elson|900.00|17-04-2025 14:14:07|Levothyroxine
+98|Kurt Goreshter|45|Male|Hypertension|Dr.prasad|950.00|17-04-2025 14:17:18|Amlodipine, Lisinopril
+99|Dave Dastmalchian|50|Male|Cough|Dr.frank|600.00|17-04-2025 14:20:29|Cough Syrup, Decongestant
+100|Maggie Lang|29|Female|Fever|Dr.frank|550.00|17-04-2025 20:13:24|Paracetamol, Antipyretic
+101|Zehraa|17|Female|Stomach Pain|Not Assigned|0.00|-|
+102|Abrar|19|Male|Hepytisis|Dr.strange|950.00|19-04-2025 10:50:27|Pantoprazole
+103|Harshey|18|Female|Back Pain|Not Assigned|500.00|-|Paracetamol, Ibuprofen
+104|Nameera|18|Female|Lupus|Dr.devya|750.00|30-04-2025 13:26:11|Azithromycin, Atorvastatin, Dolo 650
